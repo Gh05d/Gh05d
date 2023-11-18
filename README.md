@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gh05d
-- 👀 I’m interested in how the web works and JavaScript especially
-- 🌱 I’m currently learning everything web
+- 👀 I’m interested in how technology works and JavaScript especially
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on some hidden things
 - 📫 How to reach me 
 
